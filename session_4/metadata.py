@@ -1,5 +1,5 @@
-MODELS_FOLDER = "models"
-DATASETS_FOLDER = "datasets"
+MODELS_FOLDER = "session_4/models"
+DATASETS_FOLDER = "session_4/datasets"
 MODEL_NAME = "logistic-regression-model"
 
 COLUMNS_TO_DROP = []
